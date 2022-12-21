@@ -1,5 +1,5 @@
 module.exports = {
-  mode: "jit",
+  mode: 'jit',
   content: ['storyblok/**/*.{vue,js}', 'components/**/*.{vue,js}', 'pages/**/*.vue'],
   theme: {
     extend: {},
@@ -11,4 +11,4 @@ module.exports = {
     extend: {},
   },
   plugins: [],
-}
+};

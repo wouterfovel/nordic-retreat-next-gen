@@ -1,4 +1,4 @@
-import {defineNuxtConfig} from 'nuxt/config';
+import { defineNuxtConfig } from 'nuxt/config';
 
 export default defineNuxtConfig({
   css: ['@/assets/css/roboto.css'],
@@ -11,4 +11,4 @@ export default defineNuxtConfig({
     ],
     '@nuxtjs/tailwindcss',
   ],
-})
+});
